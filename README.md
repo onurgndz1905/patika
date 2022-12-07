@@ -9,7 +9,7 @@ onurgndz1905/onurgndz1905 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 Merhaba, ben @onurgnz1905
-java ile  ilgileniyorum
+java  python html css php ile ilgileniyorum
 Şu an da java öğreniyorum...
 iş birliği yapmak istiyorum.
 gunduzonur30@gmail.com  adresimden bana ulaşabilirsiniz...
